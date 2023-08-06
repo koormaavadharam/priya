@@ -11,7 +11,7 @@ public class program1 extends program {
 	
 		
 	
-public void number() {
+public void number(){
 		
 		System.out.println("number is 5");
 		
@@ -20,8 +20,9 @@ public void number() {
 			public static void main(String[] args){
 				
 				program1 p=new program1();
-				p.age();
+				
 				p.number();
+				p.Age();
 		
 		
 					
