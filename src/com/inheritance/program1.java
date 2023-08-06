@@ -21,7 +21,7 @@ public void number(){
 				
 				program1 p=new program1();
 				
-				p.number();
+			
 				p.Age();
 		
 		
